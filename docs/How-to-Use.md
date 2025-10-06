@@ -56,3 +56,5 @@ radar -p sealevel-attacks -t my_yaml_templates_folder
 ```
 
 To create custom logical rules of your own, see [How to write templates](https://github.com/auditware/radar/wiki/How-to-Write-Templates).
+
+<!-- Auto-update: 2025-10-07T00:15:23.544772 -->
